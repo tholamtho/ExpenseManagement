@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Screen 1</string>
+    <string name="variable_1">Variable 1 String value</string>
+    <string name="user_name_login">Your user name:</string>
+    <string name="pwd_login">Your password:</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_pwd">Forgot your password?</string>
+    <string name="btn_register">Do not have an account? Register now</string>
+    <string name="user_email">Your email</string>
+    <string name="first_register">Register!</string>
+</resources>
