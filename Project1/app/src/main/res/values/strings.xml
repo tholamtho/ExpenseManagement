@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Screen 1</string>
+    <string name="app_name">Expense Management App</string>
     <string name="variable_1">Variable 1 String value</string>
     <string name="user_name_login">Your user name:</string>
     <string name="pwd_login">Your password:</string>
